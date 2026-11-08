@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Mandate",
+    "slug": "mandate-autopay-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "mandate",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F5F6F4",
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": []
+  }
+}
