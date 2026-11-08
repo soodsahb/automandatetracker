@@ -7,7 +7,7 @@ A responsive React Native app for tracking active autopay mandates and reaching 
 Install Node.js 20 or newer, then clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/soodsahb/automandatetracker.git
+git clone --branch hoplite/melos-46c69d7f https://github.com/soodsahb/automandatetracker.git
 cd automandatetracker
 npm install
 ```
